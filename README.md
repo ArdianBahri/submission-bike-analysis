@@ -51,3 +51,5 @@ If you want to access the dashboard online, please visit:
 - **Exploratory Data Analysis (EDA):** Identifying patterns and insights from the data.
 - **Data Visualization:** Presenting key findings using visual representations.
 - **Dashboard Implementation:** Developing an interactive dashboard with Streamlit.
+
+! [image alt](https://github.com/ArdianBahri/submission-bike-analysis/blob/6c4f4595eaef2ddb2c2be0322c677fb596c05d25/screenshot.jpg)
