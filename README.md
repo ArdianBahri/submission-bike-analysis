@@ -1,5 +1,7 @@
 # Bike Sharing Analysis
 
+![image alt](https://github.com/ArdianBahri/submission-bike-analysis/blob/6c4f4595eaef2ddb2c2be0322c677fb596c05d25/screenshot.jpg)
+
 This is the final project for the **"Belajar Analisis Data dengan Python"** course on Dicoding. In this project, I conducted an analysis and built an interactive dashboard using a bike-sharing dataset. The notebook includes the complete process of **Data Wrangling, Exploratory Data Analysis (EDA), and Data Visualization**. Additionally, a dashboard was developed using **Streamlit** to present insights interactively.
 
 ## 📁 File Structure
@@ -51,5 +53,3 @@ If you want to access the dashboard online, please visit:
 - **Exploratory Data Analysis (EDA):** Identifying patterns and insights from the data.
 - **Data Visualization:** Presenting key findings using visual representations.
 - **Dashboard Implementation:** Developing an interactive dashboard with Streamlit.
-
-! [image alt](https://github.com/ArdianBahri/submission-bike-analysis/blob/6c4f4595eaef2ddb2c2be0322c677fb596c05d25/screenshot.jpg)
