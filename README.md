@@ -17,7 +17,8 @@ This is the final project for the **"Belajar Analisis Data dengan Python"** cour
 ├── Alya.jpg
 ├── Proyek_Analisis_Data.ipynb
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── url.txt
 ```
 
 ## 📌 Libraries and Dependencies
